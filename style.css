@@ -1,0 +1,57 @@
+* {
+    background-color: rgb(197, 167, 156);
+    margin:0 auto;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.foto {
+    width: 300px;
+    height: auto;
+}
+
+.minibio {
+    margin-top: 60px;
+    text-align: center;
+    color: black;
+}
+
+.foto {
+width: 300px;
+height: auto;
+}
+
+.minibio h1 {
+    width: 280px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.minibio p {
+    width: 300px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.redes-sociais {
+    width: 300px;
+}
+
+a {
+   text-decoration: none; 
+}
+
+.botao {
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 16px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(213, 200, 200);
+    width: 300px;
+    margin: 10px;
+    font-size: 16px;
+}
